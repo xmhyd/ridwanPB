@@ -1,0 +1,20 @@
+operator:
+    address: 0x870883753af5B8147dB7Df18765096DB36Fb91E1
+    delegation_approver_address: "0x0000000000000000000000000000000000000000"
+    staker_opt_out_window_blocks: 0
+    metadata_url: ""
+el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
+eth_rpc_url: https://holesky.infura.io/v3/edfa83cc4b7144dd82932806dc1254a5
+chain_id: 17000
+private_key_store_path: /root/.eigenlayer/operator_keys/bangb.ecdsa.key.json
+signer_type: local_keystore
+fireblocks:
+    api_key: ""
+    secret_key: ""
+    base_url: ""
+    vault_account_name: ""
+    secret_storage_type: ""
+    aws_region: ""
+    timeout: 0
+web3:
+    url: ""
